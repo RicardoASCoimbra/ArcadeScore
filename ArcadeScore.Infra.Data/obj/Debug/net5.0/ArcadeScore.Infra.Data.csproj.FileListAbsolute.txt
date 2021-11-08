@@ -1,0 +1,66 @@
+C:\Users\ricoi\source\repos\ArcadeScore\ArcadeScore.Infra.Data\bin\Debug\net5.0\ArcadeScore.Infra.Data.deps.json
+C:\Users\ricoi\source\repos\ArcadeScore\ArcadeScore.Infra.Data\bin\Debug\net5.0\ArcadeScore.Infra.Data.runtimeconfig.json
+C:\Users\ricoi\source\repos\ArcadeScore\ArcadeScore.Infra.Data\bin\Debug\net5.0\ArcadeScore.Infra.Data.runtimeconfig.dev.json
+C:\Users\ricoi\source\repos\ArcadeScore\ArcadeScore.Infra.Data\bin\Debug\net5.0\ArcadeScore.Infra.Data.dll
+C:\Users\ricoi\source\repos\ArcadeScore\ArcadeScore.Infra.Data\bin\Debug\net5.0\ref\ArcadeScore.Infra.Data.dll
+C:\Users\ricoi\source\repos\ArcadeScore\ArcadeScore.Infra.Data\bin\Debug\net5.0\ArcadeScore.Infra.Data.pdb
+C:\Users\ricoi\source\repos\ArcadeScore\ArcadeScore.Infra.Data\bin\Debug\net5.0\ArcadeScore.Application.dll
+C:\Users\ricoi\source\repos\ArcadeScore\ArcadeScore.Infra.Data\bin\Debug\net5.0\ArcadeScore.Domain.Core.dll
+C:\Users\ricoi\source\repos\ArcadeScore\ArcadeScore.Infra.Data\bin\Debug\net5.0\ArcadeScore.Domain.dll
+C:\Users\ricoi\source\repos\ArcadeScore\ArcadeScore.Infra.Data\bin\Debug\net5.0\ArcadeScore.Application.pdb
+C:\Users\ricoi\source\repos\ArcadeScore\ArcadeScore.Infra.Data\bin\Debug\net5.0\ArcadeScore.Domain.pdb
+C:\Users\ricoi\source\repos\ArcadeScore\ArcadeScore.Infra.Data\bin\Debug\net5.0\ArcadeScore.Domain.Core.pdb
+C:\Users\ricoi\source\repos\ArcadeScore\ArcadeScore.Infra.Data\obj\Debug\net5.0\ArcadeScore.Infra.Data.csproj.AssemblyReference.cache
+C:\Users\ricoi\source\repos\ArcadeScore\ArcadeScore.Infra.Data\obj\Debug\net5.0\ArcadeScore.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ricoi\source\repos\ArcadeScore\ArcadeScore.Infra.Data\obj\Debug\net5.0\ArcadeScore.Infra.Data.AssemblyInfoInputs.cache
+C:\Users\ricoi\source\repos\ArcadeScore\ArcadeScore.Infra.Data\obj\Debug\net5.0\ArcadeScore.Infra.Data.AssemblyInfo.cs
+C:\Users\ricoi\source\repos\ArcadeScore\ArcadeScore.Infra.Data\obj\Debug\net5.0\ArcadeScore.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\ricoi\source\repos\ArcadeScore\ArcadeScore.Infra.Data\obj\Debug\net5.0\ArcadeScore.Infra.Data.csproj.CopyComplete
+C:\Users\ricoi\source\repos\ArcadeScore\ArcadeScore.Infra.Data\obj\Debug\net5.0\ArcadeScore.Infra.Data.dll
+C:\Users\ricoi\source\repos\ArcadeScore\ArcadeScore.Infra.Data\obj\Debug\net5.0\ref\ArcadeScore.Infra.Data.dll
+C:\Users\ricoi\source\repos\ArcadeScore\ArcadeScore.Infra.Data\obj\Debug\net5.0\ArcadeScore.Infra.Data.pdb
+C:\Users\ricoi\source\repos\ArcadeScore\ArcadeScore.Infra.Data\obj\Debug\net5.0\ArcadeScore.Infra.Data.genruntimeconfig.cache
+C:\Users\ricoi\source\repos\ARCADESCORE_DDD - Backaup\ArcadeScore-Angular-7\ArcadeScore\ArcadeScore.Infra.Data\bin\Debug\net5.0\ArcadeScore.Infra.Data.deps.json
+C:\Users\ricoi\source\repos\ARCADESCORE_DDD - Backaup\ArcadeScore-Angular-7\ArcadeScore\ArcadeScore.Infra.Data\bin\Debug\net5.0\ArcadeScore.Infra.Data.runtimeconfig.json
+C:\Users\ricoi\source\repos\ARCADESCORE_DDD - Backaup\ArcadeScore-Angular-7\ArcadeScore\ArcadeScore.Infra.Data\bin\Debug\net5.0\ArcadeScore.Infra.Data.runtimeconfig.dev.json
+C:\Users\ricoi\source\repos\ARCADESCORE_DDD - Backaup\ArcadeScore-Angular-7\ArcadeScore\ArcadeScore.Infra.Data\bin\Debug\net5.0\ArcadeScore.Infra.Data.dll
+C:\Users\ricoi\source\repos\ARCADESCORE_DDD - Backaup\ArcadeScore-Angular-7\ArcadeScore\ArcadeScore.Infra.Data\bin\Debug\net5.0\ref\ArcadeScore.Infra.Data.dll
+C:\Users\ricoi\source\repos\ARCADESCORE_DDD - Backaup\ArcadeScore-Angular-7\ArcadeScore\ArcadeScore.Infra.Data\bin\Debug\net5.0\ArcadeScore.Infra.Data.pdb
+C:\Users\ricoi\source\repos\ARCADESCORE_DDD - Backaup\ArcadeScore-Angular-7\ArcadeScore\ArcadeScore.Infra.Data\bin\Debug\net5.0\ArcadeScore.Application.dll
+C:\Users\ricoi\source\repos\ARCADESCORE_DDD - Backaup\ArcadeScore-Angular-7\ArcadeScore\ArcadeScore.Infra.Data\bin\Debug\net5.0\ArcadeScore.Domain.Core.dll
+C:\Users\ricoi\source\repos\ARCADESCORE_DDD - Backaup\ArcadeScore-Angular-7\ArcadeScore\ArcadeScore.Infra.Data\bin\Debug\net5.0\ArcadeScore.Domain.dll
+C:\Users\ricoi\source\repos\ARCADESCORE_DDD - Backaup\ArcadeScore-Angular-7\ArcadeScore\ArcadeScore.Infra.Data\bin\Debug\net5.0\ArcadeScore.Application.pdb
+C:\Users\ricoi\source\repos\ARCADESCORE_DDD - Backaup\ArcadeScore-Angular-7\ArcadeScore\ArcadeScore.Infra.Data\bin\Debug\net5.0\ArcadeScore.Domain.pdb
+C:\Users\ricoi\source\repos\ARCADESCORE_DDD - Backaup\ArcadeScore-Angular-7\ArcadeScore\ArcadeScore.Infra.Data\bin\Debug\net5.0\ArcadeScore.Domain.Core.pdb
+C:\Users\ricoi\source\repos\ARCADESCORE_DDD - Backaup\ArcadeScore-Angular-7\ArcadeScore\ArcadeScore.Infra.Data\obj\Debug\net5.0\ArcadeScore.Infra.Data.csproj.AssemblyReference.cache
+C:\Users\ricoi\source\repos\ARCADESCORE_DDD - Backaup\ArcadeScore-Angular-7\ArcadeScore\ArcadeScore.Infra.Data\obj\Debug\net5.0\ArcadeScore.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ricoi\source\repos\ARCADESCORE_DDD - Backaup\ArcadeScore-Angular-7\ArcadeScore\ArcadeScore.Infra.Data\obj\Debug\net5.0\ArcadeScore.Infra.Data.AssemblyInfoInputs.cache
+C:\Users\ricoi\source\repos\ARCADESCORE_DDD - Backaup\ArcadeScore-Angular-7\ArcadeScore\ArcadeScore.Infra.Data\obj\Debug\net5.0\ArcadeScore.Infra.Data.AssemblyInfo.cs
+C:\Users\ricoi\source\repos\ARCADESCORE_DDD - Backaup\ArcadeScore-Angular-7\ArcadeScore\ArcadeScore.Infra.Data\obj\Debug\net5.0\ArcadeScore.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\ricoi\source\repos\ARCADESCORE_DDD - Backaup\ArcadeScore-Angular-7\ArcadeScore\ArcadeScore.Infra.Data\obj\Debug\net5.0\ArcadeScore.Infra.Data.csproj.CopyComplete
+C:\Users\ricoi\source\repos\ARCADESCORE_DDD - Backaup\ArcadeScore-Angular-7\ArcadeScore\ArcadeScore.Infra.Data\obj\Debug\net5.0\ArcadeScore.Infra.Data.dll
+C:\Users\ricoi\source\repos\ARCADESCORE_DDD - Backaup\ArcadeScore-Angular-7\ArcadeScore\ArcadeScore.Infra.Data\obj\Debug\net5.0\ref\ArcadeScore.Infra.Data.dll
+C:\Users\ricoi\source\repos\ARCADESCORE_DDD - Backaup\ArcadeScore-Angular-7\ArcadeScore\ArcadeScore.Infra.Data\obj\Debug\net5.0\ArcadeScore.Infra.Data.pdb
+C:\Users\ricoi\source\repos\ARCADESCORE_DDD - Backaup\ArcadeScore-Angular-7\ArcadeScore\ArcadeScore.Infra.Data\obj\Debug\net5.0\ArcadeScore.Infra.Data.genruntimeconfig.cache
+C:\Users\ricoi\source\ArcadeScore\ArcadeScore.Infra.Data\bin\Debug\net5.0\ArcadeScore.Infra.Data.deps.json
+C:\Users\ricoi\source\ArcadeScore\ArcadeScore.Infra.Data\bin\Debug\net5.0\ArcadeScore.Infra.Data.runtimeconfig.json
+C:\Users\ricoi\source\ArcadeScore\ArcadeScore.Infra.Data\bin\Debug\net5.0\ArcadeScore.Infra.Data.runtimeconfig.dev.json
+C:\Users\ricoi\source\ArcadeScore\ArcadeScore.Infra.Data\bin\Debug\net5.0\ArcadeScore.Infra.Data.dll
+C:\Users\ricoi\source\ArcadeScore\ArcadeScore.Infra.Data\bin\Debug\net5.0\ref\ArcadeScore.Infra.Data.dll
+C:\Users\ricoi\source\ArcadeScore\ArcadeScore.Infra.Data\bin\Debug\net5.0\ArcadeScore.Infra.Data.pdb
+C:\Users\ricoi\source\ArcadeScore\ArcadeScore.Infra.Data\bin\Debug\net5.0\ArcadeScore.Application.dll
+C:\Users\ricoi\source\ArcadeScore\ArcadeScore.Infra.Data\bin\Debug\net5.0\ArcadeScore.Domain.Core.dll
+C:\Users\ricoi\source\ArcadeScore\ArcadeScore.Infra.Data\bin\Debug\net5.0\ArcadeScore.Domain.dll
+C:\Users\ricoi\source\ArcadeScore\ArcadeScore.Infra.Data\bin\Debug\net5.0\ArcadeScore.Application.pdb
+C:\Users\ricoi\source\ArcadeScore\ArcadeScore.Infra.Data\bin\Debug\net5.0\ArcadeScore.Domain.pdb
+C:\Users\ricoi\source\ArcadeScore\ArcadeScore.Infra.Data\bin\Debug\net5.0\ArcadeScore.Domain.Core.pdb
+C:\Users\ricoi\source\ArcadeScore\ArcadeScore.Infra.Data\obj\Debug\net5.0\ArcadeScore.Infra.Data.csproj.AssemblyReference.cache
+C:\Users\ricoi\source\ArcadeScore\ArcadeScore.Infra.Data\obj\Debug\net5.0\ArcadeScore.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ricoi\source\ArcadeScore\ArcadeScore.Infra.Data\obj\Debug\net5.0\ArcadeScore.Infra.Data.AssemblyInfoInputs.cache
+C:\Users\ricoi\source\ArcadeScore\ArcadeScore.Infra.Data\obj\Debug\net5.0\ArcadeScore.Infra.Data.AssemblyInfo.cs
+C:\Users\ricoi\source\ArcadeScore\ArcadeScore.Infra.Data\obj\Debug\net5.0\ArcadeScore.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\ricoi\source\ArcadeScore\ArcadeScore.Infra.Data\obj\Debug\net5.0\ArcadeScore.Infra.Data.dll
+C:\Users\ricoi\source\ArcadeScore\ArcadeScore.Infra.Data\obj\Debug\net5.0\ref\ArcadeScore.Infra.Data.dll
+C:\Users\ricoi\source\ArcadeScore\ArcadeScore.Infra.Data\obj\Debug\net5.0\ArcadeScore.Infra.Data.pdb
+C:\Users\ricoi\source\ArcadeScore\ArcadeScore.Infra.Data\obj\Debug\net5.0\ArcadeScore.Infra.Data.genruntimeconfig.cache
+C:\Users\ricoi\source\ArcadeScore\ArcadeScore.Infra.Data\obj\Debug\net5.0\ArcadeScore.Infra.Data.csproj.CopyComplete

@@ -1,0 +1,44 @@
+C:\Users\ricoi\source\repos\ArcadeScore\ArcadeScore.Domain\bin\Debug\net5.0\ArcadeScore.Domain.deps.json
+C:\Users\ricoi\source\repos\ArcadeScore\ArcadeScore.Domain\bin\Debug\net5.0\ArcadeScore.Domain.dll
+C:\Users\ricoi\source\repos\ArcadeScore\ArcadeScore.Domain\bin\Debug\net5.0\ref\ArcadeScore.Domain.dll
+C:\Users\ricoi\source\repos\ArcadeScore\ArcadeScore.Domain\bin\Debug\net5.0\ArcadeScore.Domain.pdb
+C:\Users\ricoi\source\repos\ArcadeScore\ArcadeScore.Domain\bin\Debug\net5.0\ArcadeScore.Domain.Core.dll
+C:\Users\ricoi\source\repos\ArcadeScore\ArcadeScore.Domain\bin\Debug\net5.0\ArcadeScore.Domain.Core.pdb
+C:\Users\ricoi\source\repos\ArcadeScore\ArcadeScore.Domain\obj\Debug\net5.0\ArcadeScore.Domain.csproj.AssemblyReference.cache
+C:\Users\ricoi\source\repos\ArcadeScore\ArcadeScore.Domain\obj\Debug\net5.0\ArcadeScore.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ricoi\source\repos\ArcadeScore\ArcadeScore.Domain\obj\Debug\net5.0\ArcadeScore.Domain.AssemblyInfoInputs.cache
+C:\Users\ricoi\source\repos\ArcadeScore\ArcadeScore.Domain\obj\Debug\net5.0\ArcadeScore.Domain.AssemblyInfo.cs
+C:\Users\ricoi\source\repos\ArcadeScore\ArcadeScore.Domain\obj\Debug\net5.0\ArcadeScore.Domain.csproj.CoreCompileInputs.cache
+C:\Users\ricoi\source\repos\ArcadeScore\ArcadeScore.Domain\obj\Debug\net5.0\ArcadeScore.Domain.csproj.CopyComplete
+C:\Users\ricoi\source\repos\ArcadeScore\ArcadeScore.Domain\obj\Debug\net5.0\ArcadeScore.Domain.dll
+C:\Users\ricoi\source\repos\ArcadeScore\ArcadeScore.Domain\obj\Debug\net5.0\ref\ArcadeScore.Domain.dll
+C:\Users\ricoi\source\repos\ArcadeScore\ArcadeScore.Domain\obj\Debug\net5.0\ArcadeScore.Domain.pdb
+C:\Users\ricoi\source\repos\ARCADESCORE_DDD - Backaup\ArcadeScore-Angular-7\ArcadeScore\ArcadeScore.Domain\bin\Debug\net5.0\ArcadeScore.Domain.deps.json
+C:\Users\ricoi\source\repos\ARCADESCORE_DDD - Backaup\ArcadeScore-Angular-7\ArcadeScore\ArcadeScore.Domain\bin\Debug\net5.0\ArcadeScore.Domain.dll
+C:\Users\ricoi\source\repos\ARCADESCORE_DDD - Backaup\ArcadeScore-Angular-7\ArcadeScore\ArcadeScore.Domain\bin\Debug\net5.0\ref\ArcadeScore.Domain.dll
+C:\Users\ricoi\source\repos\ARCADESCORE_DDD - Backaup\ArcadeScore-Angular-7\ArcadeScore\ArcadeScore.Domain\bin\Debug\net5.0\ArcadeScore.Domain.pdb
+C:\Users\ricoi\source\repos\ARCADESCORE_DDD - Backaup\ArcadeScore-Angular-7\ArcadeScore\ArcadeScore.Domain\bin\Debug\net5.0\ArcadeScore.Domain.Core.dll
+C:\Users\ricoi\source\repos\ARCADESCORE_DDD - Backaup\ArcadeScore-Angular-7\ArcadeScore\ArcadeScore.Domain\bin\Debug\net5.0\ArcadeScore.Domain.Core.pdb
+C:\Users\ricoi\source\repos\ARCADESCORE_DDD - Backaup\ArcadeScore-Angular-7\ArcadeScore\ArcadeScore.Domain\obj\Debug\net5.0\ArcadeScore.Domain.csproj.AssemblyReference.cache
+C:\Users\ricoi\source\repos\ARCADESCORE_DDD - Backaup\ArcadeScore-Angular-7\ArcadeScore\ArcadeScore.Domain\obj\Debug\net5.0\ArcadeScore.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ricoi\source\repos\ARCADESCORE_DDD - Backaup\ArcadeScore-Angular-7\ArcadeScore\ArcadeScore.Domain\obj\Debug\net5.0\ArcadeScore.Domain.AssemblyInfoInputs.cache
+C:\Users\ricoi\source\repos\ARCADESCORE_DDD - Backaup\ArcadeScore-Angular-7\ArcadeScore\ArcadeScore.Domain\obj\Debug\net5.0\ArcadeScore.Domain.AssemblyInfo.cs
+C:\Users\ricoi\source\repos\ARCADESCORE_DDD - Backaup\ArcadeScore-Angular-7\ArcadeScore\ArcadeScore.Domain\obj\Debug\net5.0\ArcadeScore.Domain.csproj.CoreCompileInputs.cache
+C:\Users\ricoi\source\repos\ARCADESCORE_DDD - Backaup\ArcadeScore-Angular-7\ArcadeScore\ArcadeScore.Domain\obj\Debug\net5.0\ArcadeScore.Domain.csproj.CopyComplete
+C:\Users\ricoi\source\repos\ARCADESCORE_DDD - Backaup\ArcadeScore-Angular-7\ArcadeScore\ArcadeScore.Domain\obj\Debug\net5.0\ArcadeScore.Domain.dll
+C:\Users\ricoi\source\repos\ARCADESCORE_DDD - Backaup\ArcadeScore-Angular-7\ArcadeScore\ArcadeScore.Domain\obj\Debug\net5.0\ref\ArcadeScore.Domain.dll
+C:\Users\ricoi\source\repos\ARCADESCORE_DDD - Backaup\ArcadeScore-Angular-7\ArcadeScore\ArcadeScore.Domain\obj\Debug\net5.0\ArcadeScore.Domain.pdb
+C:\Users\ricoi\source\ArcadeScore\ArcadeScore.Domain\bin\Debug\net5.0\ArcadeScore.Domain.deps.json
+C:\Users\ricoi\source\ArcadeScore\ArcadeScore.Domain\bin\Debug\net5.0\ArcadeScore.Domain.dll
+C:\Users\ricoi\source\ArcadeScore\ArcadeScore.Domain\bin\Debug\net5.0\ref\ArcadeScore.Domain.dll
+C:\Users\ricoi\source\ArcadeScore\ArcadeScore.Domain\bin\Debug\net5.0\ArcadeScore.Domain.pdb
+C:\Users\ricoi\source\ArcadeScore\ArcadeScore.Domain\bin\Debug\net5.0\ArcadeScore.Domain.Core.dll
+C:\Users\ricoi\source\ArcadeScore\ArcadeScore.Domain\bin\Debug\net5.0\ArcadeScore.Domain.Core.pdb
+C:\Users\ricoi\source\ArcadeScore\ArcadeScore.Domain\obj\Debug\net5.0\ArcadeScore.Domain.csproj.AssemblyReference.cache
+C:\Users\ricoi\source\ArcadeScore\ArcadeScore.Domain\obj\Debug\net5.0\ArcadeScore.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ricoi\source\ArcadeScore\ArcadeScore.Domain\obj\Debug\net5.0\ArcadeScore.Domain.AssemblyInfoInputs.cache
+C:\Users\ricoi\source\ArcadeScore\ArcadeScore.Domain\obj\Debug\net5.0\ArcadeScore.Domain.AssemblyInfo.cs
+C:\Users\ricoi\source\ArcadeScore\ArcadeScore.Domain\obj\Debug\net5.0\ArcadeScore.Domain.csproj.CoreCompileInputs.cache
+C:\Users\ricoi\source\ArcadeScore\ArcadeScore.Domain\obj\Debug\net5.0\ArcadeScore.Domain.dll
+C:\Users\ricoi\source\ArcadeScore\ArcadeScore.Domain\obj\Debug\net5.0\ref\ArcadeScore.Domain.dll
+C:\Users\ricoi\source\ArcadeScore\ArcadeScore.Domain\obj\Debug\net5.0\ArcadeScore.Domain.pdb

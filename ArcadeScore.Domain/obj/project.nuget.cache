@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "IdwKLZw/RV3bDdTEBTXqmX+ATN+8eXt5SnBJKNqlr8scBwbv2M91tiApDcMvlKx+siQZxYaqGuCRAyGrNYxxng==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ricoi\\source\\ArcadeScore\\ArcadeScore.Domain\\ArcadeScore.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ricoi\\.nuget\\packages\\fluentvalidation\\10.3.4\\fluentvalidation.10.3.4.nupkg.sha512",
+    "C:\\Users\\ricoi\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
+    "C:\\Users\\ricoi\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\ricoi\\.nuget\\packages\\microsoft.extensions.options\\5.0.0\\microsoft.extensions.options.5.0.0.nupkg.sha512",
+    "C:\\Users\\ricoi\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512",
+    "C:\\Users\\ricoi\\.nuget\\packages\\system.formats.asn1\\5.0.0\\system.formats.asn1.5.0.0.nupkg.sha512",
+    "C:\\Users\\ricoi\\.nuget\\packages\\system.security.cryptography.cng\\5.0.0\\system.security.cryptography.cng.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
